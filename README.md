@@ -62,11 +62,4 @@ ContextEQ will be the operating system for contextual advertising in the AI-firs
 	•	Contextual for consumers
 	•	Transparent for leaders
 	•	Scalable for enterprise
-
-Every campaign becomes trustworthy, relevant, and profitable.
-
-
-
-🔥 حالا README هم روشن می‌کند محصول دقیقا چه کاری انجام می‌دهد و هم نشان می‌دهد چرا از نظر بازار و سرمایه‌گذاری ارزشمند است.
-
-می‌خواهی برات یک Value Chain Diagram (نمودار ارزش: ورودی → ContextEQ → خروجی‌های بازاری و مالی) هم طراحی کنم که مستقیم داخل README قرار بگیره؟
+؟

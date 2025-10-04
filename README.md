@@ -1,5 +1,8 @@
 # ContextEQ — Where Ads and Brand Safety Meets Business Growth at Enterprise Scale
 
+<img width="645" height="611" alt="دسترسی به صفحه 2" src="https://github.com/user-attachments/assets/0ed096ee-67e1-4fa4-bed9-6c7efb994664" />
+
+
 🌍 Market Opportunity
 	•	$700B+ Ad Spend globally; digital video already exceeds $180B annually.
 	•	Brand Safety Incidents cost advertisers billions in lost trust and wasted spend.
